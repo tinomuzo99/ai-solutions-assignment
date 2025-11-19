@@ -1,7 +1,7 @@
 """
 AI Solutions Engineer Interview – Simple Risk Scoring Script
 Author: Tinomutendayi Muzondidya
-Time spent: 1 hr 45 minutes
+Time spent: 2 hrs 25 minutes
 
 This script:
 - Loads WhatsApp-style conversations
