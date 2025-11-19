@@ -1,0 +1,3 @@
+# AI Solutions Engineer Assignment – Risk Scoring Script
+
+This project implements a simple keyword-based risk scoring system that analyses WhatsApp-style health conversations to estimate the likelihood of *HIV acquisition* and *mental health disorders*. The notebook processes all conversations in the provided dataset, generates risk scores, and produces guideline-aligned recommendations based on the South African National Department of Health (NDoH) ART Clinical Guidelines (2023) and the National Mental Health Policy Framework (2023–2030). The solution is intentionally lightweight, transparent, and easy to interpret, suitable for rapid prototyping in an AI health-support context.
